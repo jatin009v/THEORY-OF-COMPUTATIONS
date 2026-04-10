@@ -1,0 +1,7 @@
+DFA Designing
+· A language a said to be regular language if it can be accepted by a
+DFA.
+
+The best knowledge about DFA can be only understood by designing a
+o number of DFA, by doing so we will first understand the process of
+DFA designing and secondly, we will understand Regular Language.
