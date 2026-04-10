@@ -1,0 +1,10 @@
+· Finite automata can be broadly classified into two types-
+
+1. Finite automata without output
+1. Deterministic finite automata.
+· 2. Non deterministic finite automata.
+3. Non deterministic finite automata with E
+
+2. Finite automata with output
+1. Moore machine
+2. Mealy machine
