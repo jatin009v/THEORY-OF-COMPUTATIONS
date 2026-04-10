@@ -1,0 +1,5 @@
+Formal LANGUAGE - A language is defined as a set of strings. (in natural
+language (set of words(predefined) and grammar) we apply this
+model from words to sentence).
+In the next level we consider programs as a string and programming
+constructs/tokens like int, floats as letters/symbols.
