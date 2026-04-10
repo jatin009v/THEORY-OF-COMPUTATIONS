@@ -1,0 +1,7 @@
+In natural language we define the list of words in a dictionary because they
+finite and predefined, but we cannot list all the sentence which can be form
+using these words as they are infinite.
+
+· So, we have a mechanism called grammar/rules
+using which we can decide which sentence is valid
+and which is invalid.
