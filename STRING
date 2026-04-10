@@ -1,0 +1,4 @@
+
+STRING - It is a finite sequence of symbols (which are the
+member of set alphabet). E.g. E = {a, b} String- aabb, aa, b, so
+on. (in English we called them as words).
